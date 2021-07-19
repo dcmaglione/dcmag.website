@@ -35,25 +35,25 @@ export const projects = [
 
 export const experience = [
   {
-    quote:
+    description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
-    image: 'https://randomuser.me/api/portraits/men/1.jpg',
-    name: 'Jesse Hicks',
-    company: 'Zoozle',
+    image: './images/upe-logo.png',
+    position: 'Director of Recruitment',
+    company: 'Upsilon Pi Episilon (UPE)',
   },
   {
-    quote:
+    description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
-    image: 'https://randomuser.me/api/portraits/men/94.jpg',
-    name: 'Ruben Alvarez',
-    company: 'Dooble.io',
+    image: './images/csa-logo.png',
+    position: 'Communications Lead',
+    company: 'Computer Science Ambassadors',
   },
   {
-    quote:
+    description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
-    image: 'https://randomuser.me/api/portraits/men/1.jpg',
-    name: 'Jesse Hicks',
-    company: 'Zoozle',
+    image: './images/wegmans-logo.png',
+    position: 'Cashier',
+    company: 'Wegmans Food Markets Inc.',
   },
 ];
 

@@ -10,16 +10,12 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
             I'm a rising Sophomore at Boston University pursuing a B.A. in
-            Computer Science with a concentration in systems and development. At
-            BU, I am the current Director of Recruitment for our Upsilon Pi
-            Epsilon (UPE) Chapter, BU's CS Honor Society, and the Communications
-            Lead for the Computer Science Ambassadors (CSA).
-          </p>
-          <p className="mb-8 leading-relaxed">
-            In CS, my passions are software development, IT operations,
-            GNU/Linux, and open-source software. I am currently aspiring to be a
-            Cloud Engineer or UNIX System Administrator and seeking an
-            internship for Summer '22.
+            Computer Science with a concentration in systems and development.
+            Currently, I am planning to an accelerated Master's in Computer
+            Science here at BU. In CS, my passions are software development, IT
+            operations, GNU/Linux, and open-source software. I am currently
+            aspiring to be a Cloud Engineer or UNIX System Administrator and
+            seeking an internship for Summer '22.
           </p>
           <p className="mb-8 leading-relaxed">
             When I'm not programming, you'll find me spending time with friends,

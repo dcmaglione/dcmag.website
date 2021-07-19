@@ -23,7 +23,6 @@ export default function Experience() {
           {experience.map((experience) => (
             <div className="p-4 md:w-1/2 w-full">
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
-                <p className="leading-relaxed mb-6">{experience.quote}</p>
                 <div className="inline-flex items-center">
                   <img
                     alt="experience"
@@ -31,14 +30,15 @@ export default function Experience() {
                     className="w-12 rounded-lg flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-white">
-                      {experience.name}
+                    <span className="text-lg title-font font-medium text-white">
+                      {experience.position}
                     </span>
                     <span className="text-gray-500 text-sm uppercase">
                       {experience.company}
                     </span>
                   </span>
                 </div>
+                <p className="leading-relaxed mb-6">{experience.description}</p>
               </div>
             </div>
           ))}

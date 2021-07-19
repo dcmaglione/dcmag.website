@@ -19,7 +19,7 @@ export default function Education() {
           in becoming a well-rounded individual. Listed below are the
           institutions I have attended or am currently attending.
         </p>
-        <div className="block flex-wrap m-4">
+        <div className="flex flex-wrap m-4">
           {education.map((education) => (
             <div className="p-4 md:w-1/2 w-full">
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
