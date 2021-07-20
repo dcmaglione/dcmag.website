@@ -4,7 +4,7 @@ import { Link } from 'react-scroll';
 
 export default function Navbar() {
   return (
-    <header className="bg-gray-800 md:sticky top-0 z-10">
+    <header className="bg-gray-800 md:sticky top-0 z-20">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
           <Link activeClass="active" to="about" spy={true} smooth={true}>
@@ -32,11 +32,6 @@ export default function Navbar() {
           <Link activeClass="active" to="skills" spy={true} smooth={true}>
             <a href="#skills" className="mr-5 hover:text-white">
               Skills
-            </a>
-          </Link>
-          <Link activeClass="active" to="contact" spy={true} smooth={true}>
-            <a href="#contact" className="mr-5 hover:text-white">
-              Contact
             </a>
           </Link>
         </nav>

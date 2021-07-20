@@ -38,7 +38,7 @@ export default function Experience() {
                     </span>
                   </span>
                 </div>
-                <p className="leading-relaxed mb-6">{experience.description}</p>
+                <p className="leading-relaxed mb-4">{experience.description}</p>
               </div>
             </div>
           ))}

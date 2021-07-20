@@ -21,7 +21,7 @@ export default function About() {
             When I'm not programming, you'll find me spending time with friends,
             skateboarding around the city, reading a good book, or enjoying a
             nice cup of coffee (sometimes tea). Feel free to check out my social
-            networking below.
+            networking below and connect with me.
           </p>
           <div className="flex justify-center">
             <a
@@ -39,6 +39,14 @@ export default function About() {
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
               GitHub
+            </a>
+            <a
+              href="mailto:dcmaglione@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+            >
+              Email
             </a>
           </div>
         </div>
