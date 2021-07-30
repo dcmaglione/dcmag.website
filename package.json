@@ -1,6 +1,6 @@
 {
-  "homepage": "https://dcmaglione.github.io/dcmag.website/",
-  "name": "portfolio",
+  "name": "dcmaglione",
+  "homepage": "https://dcmaglione.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
