@@ -5,7 +5,7 @@ export const projects = [
     description:
       'This website was my first project using React that reached completion. It gave me my first exposure to the possibilities of JavaScript libraries and a taste of CSS frameworks.',
     image: './images/my-website-img.png',
-    link: 'https://github.com/dcmaglione/website',
+    link: 'https://github.com/dcmaglione/dcmag.website',
   },
   {
     title: 'My Dotfiles',
