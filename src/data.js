@@ -16,7 +16,7 @@ export const projects = [
     link: 'https://github.com/dcmaglione/dotfiles',
   },
   {
-    title: 'Dcmag.archive',
+    title: 'Personal Archive',
     subtitle: 'HTML / CSS / Gemini',
     description:
       'This was my first website. It uses a new Internet protocol called Gemini which can be seen as a middle ground between the old gopher protocol of the early 1990s and the modern web.',
@@ -32,10 +32,10 @@ export const projects = [
     link: 'https://github.com/dcmaglione/pathfinding-visualization',
   },
   {
-    title: 'CSA Website',
-    subtitle: 'HTML / SCSS / Express.js',
+    title: 'CSA Official Website',
+    subtitle: 'HTML / SCSS / React',
     description:
-      'This is the official website of CSA. I ensured the site complied with the Minimum Web Accessibility Standards. The goal of the MWAS is to make content accessible to persons with disabilities.',
+      'This is the official website of CSA. I am in charge of the team handling the websites maintenance. Additionally, I ensured the site complied with the Minimum Web Accessibility Standards.',
     image: './images/csa-website-img.png',
     link: 'https://github.com/BUCSAmbassadors/csa-official-website',
   },
@@ -61,7 +61,7 @@ export const experience = [
     description:
       'I am responsible for working on attendance, point checking, forms, and overall compliance. This includes tracking the responsibilities of fellow ambassadors, offices, and other committees. Additionally, my objective is to boost internal and external involvement in the CSA program through social interaction while maintaining close relations with BU faculty.	',
     image: './images/csa-logo.png',
-    position: 'Communications Lead',
+    position: 'Engagement Lead',
     company: 'Computer Science Ambassadors || 2021 - Present',
   },
   {
@@ -83,7 +83,7 @@ export const education = [
   },
   {
     degree: 'Advanced Studies Diploma',
-    description: 'GPA: 4.49/4.0 || Top 8% of Class || Honor Roll (8 Semesters)',
+    description: 'GPA: 4.49/4.0 || Honor Roll (8 Semesters)',
     image: './images/riverside-logo.png',
     name: 'Riverside High School',
     year: '2016 - 2020',
@@ -103,4 +103,8 @@ export const skills = [
   'Vim',
   'React',
   'AWS',
+  'LaTeX',
+  'QEMU',
+  'VirtualBox',
+  'Ansible',
 ];

@@ -11,11 +11,11 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             I'm a rising Sophomore at Boston University pursuing a B.A. in
             Computer Science with a concentration in systems and development.
-            Currently, I am planning to complete an accelerated Master's in Computer
-            Science here at BU. In CS, my passions are software development, IT
-            operations, GNU/Linux, and open-source software. I am currently
-            aspiring to be a Cloud Engineer or UNIX System Administrator and
-            seeking an internship for Summer '22.
+            Additionally, I am planning to complete a minor in Business
+            Administration and Management here at BU. In CS, my passions are
+            software development, IT operations, GNU/Linux, and open-source
+            software, with a focus on management. I am currently aspiring to be
+            a Product Manager or DevOps Engineer.
           </p>
           <p className="mb-8 leading-relaxed">
             When I'm not programming, you'll find me spending time with friends,
@@ -25,7 +25,7 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="https://www.linkedin.com/in/dominicmaglione/"
+              href="https://www.linkedin.com/in/dcmaglione/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg"
