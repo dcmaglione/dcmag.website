@@ -6,22 +6,22 @@ import { experience } from '../data';
 export default function Experience() {
   return (
     <section id="experience">
-      <div className="container px-5 pt-20 pb-5 mx-auto text-left">
-        <div className="flex justify-left m-6 ml-7">
-          <BriefcaseIcon className="w-10 inline-block mr-4" />
+      <div className="pt-20 pb-5 text-left">
+        <div className="flex justify-center mb-4">
+          <BriefcaseIcon className="w-10 inline-block mr-6" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mt-2">
             Experience
           </h1>
         </div>
-        <p className="flex justify-left lg:w-2/3 ml-8 leading-relaxed text-base">
+        <p className="flex justify-center text-center leading-relaxed text-base mb-10 md:w-2/3 mx-auto">
           In the past few years, I've had the pleasure of working and growing
           with exceptional people from very different backgrounds. Together, we
           expanded our skillsets and solved many challenges. Here are a few of
           my favorite and experiences with them.
         </p>
-        <div className="flex flex-wrap m-4">
+        <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
           {experience.map((experience) => (
-            <div className="p-4 md:w-1/2 w-full">
+            <div>
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
                 <div className="inline-flex items-center">
                   <img

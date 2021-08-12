@@ -6,15 +6,15 @@ import { projects } from '../data';
 export default function Projects() {
   return (
     <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-      <div className="container px-5 pt-20 pb-5 mx-auto text-center lg:px-40">
-        <div className="flex flex-col w-full mb-20">
+      <div className="container pt-20 mx-auto text-center">
+        <div className="flex flex-col w-full">
           <div className="flex justify-center m-6">
             <CodeIcon className="w-10 inline-block mr-4" />
             <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mt-2">
               Projects
             </h1>
           </div>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          <p className="flex justify-center text-center leading-relaxed text-base mb-10 md:w-2/3 mx-auto">
             Trial and error is a fundamental process for nearly all aspects of
             Computer Science. The more I've experimented with different
             development tools, environments, libraries, distributions, the
@@ -22,14 +22,10 @@ export default function Projects() {
             ongoing projects.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
           {projects.map((project) => (
-            <a
-              href={project.link}
-              key={project.image}
-              className="sm:w-1/3 w-100 p-4"
-            >
-              <div className="flex relative">
+            <a href={project.link} key={project.image} className="w-full">
+              <div className="flex relative h-full">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center rounded"

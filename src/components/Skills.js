@@ -6,15 +6,15 @@ import { skills } from '../data';
 export default function Skills() {
   return (
     <section id="skills">
-      <div className="container px-5 py-20 mx-auto">
-        <div className="text-center mb-20">
+      <div className="py-20">
+        <div className="text-center mb-10">
           <div className="flex justify-center m-6">
             <ServerIcon className="w-10 inline-block mr-4" />
             <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mt-2">
               Skills
             </h1>
           </div>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
+          <p className="flex justify-center text-center leading-relaxed text-base mb-10 md:w-2/3 mx-auto">
             Technological disciplines are often vast in this ever-changing
             world, and Computer Science is no exception. From front-end to
             back-end, design to deployment, generally every individual possesses
