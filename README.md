@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# dcmag.website 
+Personal website built using ReactJS and Tailwind CSS over Summer '21. This repository contains all source files for the website. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This website was my project using React that reached completion. The portfolio contains a brief description of my field of study, interests, and hobbies. More professionally, the website contains my past experiences and campus leadership, alongside any relevant projects I have completed and/or are currently in development. Additionally, at the very bottom, my technical skills are listed. This website is continuously undergoing modifications and optimization as I bolster my skill set and learn more efficient development techniques. 
 
-## Available Scripts
+## Installation
+This website is written using HTML, React, and Tailwind CSS. For development, only the installation of npm is necessary.
 
-In the project directory, you can run:
+## Usage
+The website uses React Scroll, Tailwind CSS, and Heroicons. Run all of the following inside the project directory.
+To install all necessary packages run the following:
 
-### `yarn start`
+```
+npm install
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To start the development server run the following:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+npm start
+```
 
-### `yarn test`
+## Contributing
+These source files are open to contribution and criticism. I use this website to not only display my skills but convey them as well.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Status
+Contribution and development for this respository is currently in progress.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
