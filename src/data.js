@@ -52,14 +52,21 @@ export const projects = [
 export const experience = [
   {
     description:
-      "I am responsible for the execution of UPE's recruitment process. My responsibilities are planning events for new potential members, facilitating the application process for potential new members, running deliberation as current UPE members vote for the acceptance or denial of various applicants, and overseeing the trial period for provisional members.",
+      'I hold labs, office hours, and grade papers for CS210 Computer Systems. The course explores fundamental concepts of computer systems and systems programming. Hardware fundamentals including digital logic, memory systems, processor design, buses, I/O subsystems, data representations, computer arithmetic, and instruction- set architecture. Software concepts including assembly language programming, operating systems, assemblers, linkers, and systems programming in C.',
+    image: './images/bu-logo.png',
+    position: 'Course Assistant',
+    company: 'Boston University || 2021 - Present',
+  },
+  {
+    description:
+      "I am responsible for the coordinating and executing UPE's semesterly recruitment process. My responsibilities are planning events for potential new members, facilitating the application process for potential new members through the formulation of coding and logic based interviews, running deliberation as current UPE members vote for the acceptance or denial of various applicants, and overseeing the trial period for provisional members.",
     image: './images/upe-logo.png',
     position: 'Director of Recruitment',
     company: 'Upsilon Pi Episilon (UPE) || 2021 - Present',
   },
   {
     description:
-      'I am responsible for working on attendance, point checking, forms, and overall compliance. This includes tracking the responsibilities of fellow ambassadors, offices, and other committees. Additionally, my objective is to boost internal and external involvement in the CSA program through social interaction while maintaining close relations with BU faculty.	',
+      'I am involved in working on attendance, point checking, forms, and tracking overall compliance. This includes tracking the responsibilities of fellow ambassadors, offices, and other committees. Additionally, my objective is to boost internal and external involvement in the CSA program through social interaction while maintaining close relations with BU faculty.	',
     image: './images/csa-logo.png',
     position: 'Engagement Lead',
     company: 'Computer Science Ambassadors || 2021 - Present',

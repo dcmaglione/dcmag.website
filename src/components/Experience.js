@@ -27,7 +27,7 @@ export default function Experience() {
                   <img
                     alt="experience"
                     src={experience.image}
-                    className="w-12 rounded-lg flex-shrink-0 object-cover object-center"
+                    className="w-12 rounded-none flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
                     <span className="text-lg title-font font-medium text-white">
