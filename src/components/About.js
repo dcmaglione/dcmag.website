@@ -11,8 +11,8 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             I'm a rising Sophomore at Boston University pursuing a B.A. in
             Computer Science with a concentration in systems and development.
-            Additionally, I am planning to complete a prospective B.A.in
-            Economics here at BU. In CS, my passions are software development,
+            Additionally, I am planning to complete an accelerated M.S. in 
+            Computer Science here at BU. In CS, my passions are software development,
             IT operations, GNU/Linux, and open-source software, with a focus on
             management. I am currently aspiring to be a Product Manager or
             DevOps Engineer.
