@@ -9,7 +9,7 @@ import Education from './components/Education';
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font font-mono">
+    <main className="text-gray-400 bg-gray-900 body-font font-sans">
       <Navbar />
       <div className="container mx-auto px-4 md:px-8 max-w-screen-xl">
         <About />

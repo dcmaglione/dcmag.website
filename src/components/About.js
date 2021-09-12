@@ -13,7 +13,7 @@ export default function About() {
             Computer Science with a concentration in systems and development.
             Additionally, I am planning to complete a prospective B.A.in
             Economics here at BU. In CS, my passions are software development,
-            IT operations, GNU/Linux, and open-source software, with a focus on
+            IT operations, GNU/Linux, and cybersecurity, with a focus on
             management. I am currently aspiring to be a Product Manager or
             DevOps Engineer.
           </p>
@@ -53,7 +53,7 @@ export default function About() {
         <div className="px-10 md:px-0 lg:max-w-lg lg:w-full md:w-1/2 w-5/6 md:pl-8">
           <img
             className="object-cover object-center rounded-full"
-            alt="hero"
+            alt=" "
             src="./images/profile-pic.jpg"
           />
         </div>
