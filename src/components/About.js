@@ -9,9 +9,9 @@ export default function About() {
             Hi, I'm Dominic.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm a rising Sophomore at Boston University pursuing a B.A. in
+            I'm a Sophomore at Boston University pursuing a B.A. in
             Computer Science with a concentration in systems and development.
-            Additionally, I am planning to complete a prospective B.A.in
+            Additionally, I am planning to complete an additional B.A. in
             Economics here at BU. In CS, my passions are software development,
             IT operations, GNU/Linux, and cybersecurity, with a focus on
             management. I am currently aspiring to be a Product Manager or
