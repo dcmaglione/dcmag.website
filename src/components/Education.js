@@ -13,7 +13,7 @@ export default function Education() {
             Education
           </h1>
         </div>
-        <p className="flex justify-center text-center leading-relaxed text-base mb-10 md:w-2/3 mx-auto">
+        <p className="flex justify-center text-center leading-relaxed text-lg mb-10 md:w-2/3 mx-auto">
           A solid education is the foundation for a prosperous life. While it is
           crucial to put a great deal of effort into your field, there is value
           in becoming a well-rounded individual. Listed below are the

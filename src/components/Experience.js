@@ -13,7 +13,7 @@ export default function Experience() {
             Experience
           </h1>
         </div>
-        <p className="flex justify-center text-center leading-relaxed text-base mb-10 md:w-2/3 mx-auto">
+        <p className="flex justify-center text-center leading-relaxed text-lg mb-10 md:w-2/3 mx-auto">
           In the past few years, I've had the pleasure of working and growing
           with exceptional people from very different backgrounds. Together, we
           expanded our skillsets and solved many challenges. Here are a few of

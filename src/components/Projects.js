@@ -14,7 +14,7 @@ export default function Projects() {
               Projects
             </h1>
           </div>
-          <p className="flex justify-center text-center leading-relaxed text-base mb-10 md:w-2/3 mx-auto">
+          <p className="flex justify-center text-center leading-relaxed text-lg mb-10 md:w-2/3 mx-auto">
             Trial and error is a fundamental process for nearly all aspects of
             Computer Science. The more I've experimented with different
             development tools, environments, libraries, distributions, the

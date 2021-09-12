@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Azeret Mono', 'sans-serif'],
+        sans: ['Inter', 'sans-serif'],
       },
     },
   },

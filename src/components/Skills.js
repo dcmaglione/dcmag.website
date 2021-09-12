@@ -14,7 +14,7 @@ export default function Skills() {
               Skills
             </h1>
           </div>
-          <p className="flex justify-center text-center leading-relaxed text-base mb-10 md:w-2/3 mx-auto">
+          <p className="flex justify-center text-center leading-relaxed text-lg mb-10 md:w-2/3 mx-auto">
             Technological disciplines are often vast in this ever-changing
             world, and Computer Science is no exception. From front-end to
             back-end, design to deployment, generally every individual possesses
