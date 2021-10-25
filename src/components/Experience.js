@@ -9,7 +9,7 @@ export default function Experience() {
       <div className="pt-20 pb-5 text-left">
         <div className="flex justify-center mb-4">
           <BriefcaseIcon className="w-10 inline-block mr-6" />
-          <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mt-2">
+          <h1 className="font-serif sm:text-4xl text-3xl font-medium title-font text-white mt-2">
             Experience
           </h1>
         </div>
@@ -20,8 +20,8 @@ export default function Experience() {
           my favorite and experiences with them.
         </p>
         <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
-          {experience.map((experience) => (
-            <div>
+          {experience.map((experience, index) => (
+            <div key={index}>
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
                 <div className="inline-flex items-center">
                   <img

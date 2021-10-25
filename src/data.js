@@ -4,7 +4,7 @@ export const projects = [
     subtitle: 'HTML / Tailwind CSS / React',
     description:
       'This website was my first project using React that reached completion. It gave me my first exposure to the possibilities of JavaScript libraries and a taste of CSS frameworks.',
-    image: './images/my-website-img.png',
+    image: './images/my-website-img.jpg',
     link: 'https://github.com/dcmaglione/dcmag.website',
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: 'C / Python / Vim Script',
     description:
       'Dotfiles are the customization files used to personalize Linux or other Unix-based systems. These are simply the files whose names start with a dot (.) like .vimrc, .bashrc, .ssh, etc.',
-    image: './images/dotfiles-img.png',
+    image: './images/dotfiles-img.jpg',
     link: 'https://github.com/dcmaglione/dotfiles',
   },
   {
@@ -35,9 +35,9 @@ export const projects = [
     title: 'CSA Official Website',
     subtitle: 'HTML / SCSS / React',
     description:
-      'This is the official website of CSA. I am in charge of the team handling the websites maintenance. Additionally, I ensured the site complied with the Minimum Web Accessibility Standards.',
-    image: './images/csa-website-img.png',
-    link: 'https://github.com/BUCSAmbassadors/csa-official-website',
+      'This is the official website of CSA. I was in charge of the team handling the websites maintenance. Additionally, I ensured the site complied with the Minimum Web Accessibility Standards.',
+    image: './images/csa-website-img.jpg',
+    link: 'https://csa-official-website.herokuapp.com/',
   },
   {
     title: 'Terra Nova',
@@ -52,7 +52,7 @@ export const projects = [
 export const experience = [
   {
     description:
-      'I hold labs, office hours, and grade papers for CS210 Computer Systems. The course explores fundamental concepts of computer systems and systems programming. Hardware fundamentals including digital logic, memory systems, processor design, buses, I/O subsystems, data representations, computer arithmetic, and instruction- set architecture. Software concepts including assembly language programming, operating systems, assemblers, linkers, and systems programming in C.',
+      'I hold office hours and grade assignments for 140+ students in CS210 Computer Systems. The course explores fundamental concepts of computer systems and systems programming. Hardware fundamentals including digital logic, memory systems, processor design, buses, I/O subsystems, data representations, computer arithmetic, and instruction- set architecture. Software concepts including assembly language programming, operating systems, assemblers, linkers, and systems programming in C.',
     image: './images/bu-logo.png',
     position: 'Course Assistant',
     company: 'Boston University || 2021 - Present',
@@ -82,7 +82,7 @@ export const experience = [
 
 export const education = [
   {
-    degree: 'Bachelor of Arts in Computer Science',
+    degree: 'BA in Computer Science, BA in Economics',
     description: "GPA: 3.91/4.0 || Dean's List (2 Semesters)",
     image: './images/bu-logo.png',
     name: 'Boston University',

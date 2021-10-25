@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['Inter', 'ui-sans-serif'],
+        mono: ['Roboto Mono', 'ui-monospace'],
+        serif: ['Merriweather', 'ui-serif'],
       },
     },
   },
