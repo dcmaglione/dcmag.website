@@ -1,6 +1,5 @@
 import React from 'react';
-
-import { DotsVerticalIcon, ServerIcon } from '@heroicons/react/solid';
+import { DotsVerticalIcon } from '@heroicons/react/solid';
 import { skills } from '../data';
 
 export default function Skills() {
@@ -9,7 +8,6 @@ export default function Skills() {
       <div className="py-20">
         <div className="text-center mb-10">
           <div className="flex justify-center m-6">
-            <ServerIcon className="w-10 inline-block mr-4" />
             <h1 className="font-serif sm:text-4xl text-3xl font-medium title-font text-white mt-2">
               Skills
             </h1>

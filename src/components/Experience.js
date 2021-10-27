@@ -1,6 +1,4 @@
 import React from 'react';
-
-import { BriefcaseIcon } from '@heroicons/react/solid';
 import { experience } from '../data';
 
 export default function Experience() {
@@ -8,7 +6,6 @@ export default function Experience() {
     <section id="experience">
       <div className="pt-20 pb-5 text-left">
         <div className="flex justify-center mb-4">
-          <BriefcaseIcon className="w-10 inline-block mr-6" />
           <h1 className="font-serif sm:text-4xl text-3xl font-medium title-font text-white mt-2">
             Experience
           </h1>
