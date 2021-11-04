@@ -4,8 +4,8 @@ import { education } from '../data';
 export default function Education() {
   return (
     <section id="education">
-      <div className="pt-20 pb-5 mx-auto text-left">
-        <div className="flex justify-center mb-6">
+      <div className="pt-20 pb-20 mx-auto text-left">
+        <div className="flex justify-center mb-4">
           <h1 className="sm:text-4xl text-3xl font-serif font-medium title-font text-white mt-2">
             Education
           </h1>

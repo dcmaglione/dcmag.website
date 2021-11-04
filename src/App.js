@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 
 import Home from './components/Home';
 import About from './components/About';
@@ -16,20 +16,20 @@ export default function App() {
         <Navbar />
         <div className="container mx-auto px-4 md:px-8 max-w-screen-xl font-sans">
           <Switch>
-            <Route path="/about">
+            <Route exact path="/about">
               <About />
               <Education />
             </Route>
-            <Route path="/experience">
+            <Route exact path="/experience">
               <Experience />
             </Route>
-            <Route path="/projects">
+            <Route exact path="/projects">
               <Projects />
             </Route>
-            <Route path="/skills">
+            <Route exact path="/skills">
               <Skills />
             </Route>
-            <Route path="/">
+            <Route exact path="/">
               <Home />
             </Route>
           </Switch>

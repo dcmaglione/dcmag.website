@@ -7,7 +7,7 @@ export default function Skills() {
     <section id="skills">
       <div className="py-20">
         <div className="text-center mb-10">
-          <div className="flex justify-center m-6">
+          <div className="flex justify-center mb-4">
             <h1 className="font-serif sm:text-4xl text-3xl font-medium title-font text-white mt-2">
               Skills
             </h1>

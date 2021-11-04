@@ -4,9 +4,9 @@ import { projects } from '../data';
 export default function Projects() {
   return (
     <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-      <div className="container pt-20 mx-auto text-center">
+      <div className="container pt-20 pb-20 mx-auto text-center">
         <div className="flex flex-col w-full">
-          <div className="flex justify-center m-6">
+          <div className="flex justify-center mb-4">
             <h1 className="font-serif sm:text-4xl text-3xl font-medium title-font text-white mt-2">
               Projects
             </h1>
