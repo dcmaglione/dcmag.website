@@ -14,7 +14,7 @@ export default function Navbar() {
   const [path, setPath] = useState(null);
 
   useEffect(() => {
-    setPath(window.location.pathname);
+    setPath(window.location.hash.replace('#', ''));
   }, [location]);
 
   return (
