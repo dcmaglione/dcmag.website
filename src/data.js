@@ -82,7 +82,7 @@ export const experience = [
 
 export const education = [
   {
-    degree: 'BA in Computer Science, BA in Economics',
+    degree: 'BA in Computer Science, BA in Political Science',
     description: "GPA: 3.91/4.0 || Dean's List (2 Semesters)",
     image: './images/bu-logo.png',
     name: 'Boston University',

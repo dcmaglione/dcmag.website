@@ -12,7 +12,7 @@ export default function About() {
             I'm a Sophomore at Boston University pursuing a B.A. in Computer
             Science with a focus on systems, development, and cybersecurity.
             Additionally, I am planning to complete a secondary B.A. in
-            Economics here at BU. In CS, my passions are software development,
+            Political Science here at BU. In CS, my passions are software development,
             IT operations, GNU/Linux, and cybersecurity, focusing on management.
             I am currently aspiring to be a Software Engineer or Product
             Manager.
