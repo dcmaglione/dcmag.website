@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c13c6f37.chunk.css",
-    "main.js": "/static/js/main.247b109b.chunk.js",
-    "main.js.map": "/static/js/main.247b109b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.17d5788d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.17d5788d.js.map",
-    "static/js/2.6d48be1c.chunk.js": "/static/js/2.6d48be1c.chunk.js",
-    "static/js/2.6d48be1c.chunk.js.map": "/static/js/2.6d48be1c.chunk.js.map",
+    "main.css": "/static/css/main.28f57630.css",
+    "main.js": "/static/js/main.0cb41334.js",
+    "static/media/terra-nova.png": "/static/media/terra-nova.c551141fe37c3541ceea.png",
+    "static/media/dotfiles.jpg": "/static/media/dotfiles.41a49d4c47a254f83f37.jpg",
+    "static/media/csa-website.jpg": "/static/media/csa-website.4ac2bf89b81e29ab2c75.jpg",
+    "static/media/archives.png": "/static/media/archives.a2c955570c1b1d6909e6.png",
+    "static/media/bu-logo.png": "/static/media/bu-logo.8711a0629406e6d384c4.png",
+    "static/media/this-website.jpg": "/static/media/this-website.201b5d8e2482d0624b99.jpg",
+    "static/media/upe-logo.png": "/static/media/upe-logo.e1aea374a317867db68d.png",
+    "static/media/wegmans-logo.png": "/static/media/wegmans-logo.c44d208be397c656846e.png",
     "index.html": "/index.html",
-    "static/css/main.c13c6f37.chunk.css.map": "/static/css/main.c13c6f37.chunk.css.map",
-    "static/js/2.6d48be1c.chunk.js.LICENSE.txt": "/static/js/2.6d48be1c.chunk.js.LICENSE.txt"
+    "main.28f57630.css.map": "/static/css/main.28f57630.css.map",
+    "main.0cb41334.js.map": "/static/js/main.0cb41334.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.17d5788d.js",
-    "static/js/2.6d48be1c.chunk.js",
-    "static/css/main.c13c6f37.chunk.css",
-    "static/js/main.247b109b.chunk.js"
+    "static/css/main.28f57630.css",
+    "static/js/main.0cb41334.js"
   ]
 }
