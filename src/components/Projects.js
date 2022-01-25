@@ -1,24 +1,18 @@
 import React from 'react';
 import { projects } from '../data';
 
+// import Card from '../containers/Card';
+
 export default function Projects() {
   return (
-    <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-      <div className="container pt-20 pb-20 mx-auto text-center">
-        <div className="flex flex-col w-full">
-          <div className="flex justify-center mb-4">
-            <h1 className="font-serif sm:text-4xl text-3xl font-medium title-font text-white mt-2">
-              Projects
-            </h1>
-          </div>
-          <p className="flex justify-center text-center leading-relaxed text-lg mb-10 md:w-2/3 mx-auto">
-            Trial and error is a fundamental process for nearly all aspects of
-            Computer Science. The more I've experimented with different
-            development tools, environments, libraries, distributions, the
-            broader my skillset has become. Here are a few of my completed and
-            ongoing projects.
-          </p>
-        </div>
+    <section
+      id="projects"
+      className="m-auto pt-36 pb-20 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 -skew-y-12 shadow-inner text-white text-center"
+    >
+      <div className="skew-y-12">
+        <h1 className="flex justify-center mb-10 font-sans sm:text-5xl text-4xl font-semibold title-font text-white">
+          Projects
+        </h1>
         <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
           {projects.map((project) => (
             <a href={project.link} key={project.image} className="w-full">

@@ -3,19 +3,14 @@ import { education } from '../data';
 
 export default function Education() {
   return (
-    <section id="education">
-      <div className="pt-20 pb-20 mx-auto text-left">
-        <div className="flex justify-center mb-4">
-          <h1 className="sm:text-4xl text-3xl font-serif font-medium title-font text-white mt-2">
-            Education
-          </h1>
-        </div>
-        <p className="flex justify-center text-center leading-relaxed text-lg mb-10 md:w-2/3 mx-auto">
-          A solid education is the foundation for a prosperous life. While it is
-          crucial to put a great deal of effort into your field, there is value
-          in becoming a well-rounded individual. Listed below are the
-          institutions I have attended or am currently attending.
-        </p>
+    <section
+      id="education"
+      className="m-auto pt-36 pb-20 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 -skew-y-12 shadow-inner text-white"
+    >
+      <div className="skew-y-12">
+        <h1 className="flex justify-center mb-10 sm:text-5xl text-4xl font-sans font-semibold title-font text-white mt-2">
+          Education
+        </h1>
         <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
           {education.map((education, index) => (
             <div key={index}>
