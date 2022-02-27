@@ -11,6 +11,7 @@ import TerraNova from './images/terra-nova.png';
 
 // Experience images
 import BU from './images/bu-logo.png';
+import RVHS from './images/riverside-logo.png';
 import UPE from './images/upe-logo.png';
 import CSA from './images/csa-logo.png';
 import Wegmans from './images/wegmans-logo.png';
@@ -127,6 +128,13 @@ export const education = [
     degree: 'BA in Computer Science',
     description: "GPA: 3.80/4.0 || Dean's List (3 Semesters)",
     image: BU,
+  },
+  {
+    name: 'Riverside High School',
+    year: '2016 - 2020',
+    degree: 'Advanced Studies Diploma',
+    description: "GPA: 4.49/4.0 || Honor Roll (8 Semesters)",
+    image: RVHS,
   },
 ];
 
