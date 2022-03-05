@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ecad5e38.css",
-    "main.js": "/static/js/main.aef52222.js",
+    "main.js": "/static/js/main.01539a26.js",
     "static/media/profile-pic.jpg": "/static/media/profile-pic.3d6236456418a4d307a1.jpg",
     "static/media/terra-nova.png": "/static/media/terra-nova.c551141fe37c3541ceea.png",
     "static/media/dotfiles.jpg": "/static/media/dotfiles.41a49d4c47a254f83f37.jpg",
@@ -14,10 +14,10 @@
     "static/media/wegmans-logo.png": "/static/media/wegmans-logo.c44d208be397c656846e.png",
     "index.html": "/index.html",
     "main.ecad5e38.css.map": "/static/css/main.ecad5e38.css.map",
-    "main.aef52222.js.map": "/static/js/main.aef52222.js.map"
+    "main.01539a26.js.map": "/static/js/main.01539a26.js.map"
   },
   "entrypoints": [
     "static/css/main.ecad5e38.css",
-    "static/js/main.aef52222.js"
+    "static/js/main.01539a26.js"
   ]
 }
