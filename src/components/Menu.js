@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import '../index.css';
+import '../styles/index.css';
 
 // Names of components
 const links = ['/about', '/experience', '/projects', '/skills'];

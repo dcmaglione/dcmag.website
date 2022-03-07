@@ -1,25 +1,25 @@
 import React from 'react';
 
-import Home from './components/Home';
-import About from './components/About';
-import Navbar from './components/Navbar';
-import Projects from './components/Projects';
-import Skills from './components/Skills';
-import Experience from './components/Experience';
-import Education from './components/Education';
+import Home from './sections/Home';
+import About from './sections/About';
+import Navbar from './sections/Navbar';
+import Projects from './sections/Projects';
+import Skills from './sections/Skills';
+import Experience from './sections/Experience';
+import Education from './sections/Education';
+import Footer from './sections/Footer';
 
 export default function App() {
   return (
-    <main className="bg-gray-900">
+    <div className="bg-gray-900">
       <Navbar />
-      <div>
-        <Home />
-        <About />
-        <Education />
-        <Experience />
-        <Projects />
-        <Skills />
-      </div>
-    </main>
+      <Home />
+      <About />
+      <Education />
+      <Experience />
+      <Projects />
+      <Skills />
+      <Footer />
+    </div>
   );
 }

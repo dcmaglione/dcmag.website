@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.28f57630.css",
-    "main.js": "/static/js/main.0cb41334.js",
+    "main.css": "/static/css/main.ecad5e38.css",
+    "main.js": "/static/js/main.01539a26.js",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.3d6236456418a4d307a1.jpg",
     "static/media/terra-nova.png": "/static/media/terra-nova.c551141fe37c3541ceea.png",
     "static/media/dotfiles.jpg": "/static/media/dotfiles.41a49d4c47a254f83f37.jpg",
     "static/media/csa-website.jpg": "/static/media/csa-website.4ac2bf89b81e29ab2c75.jpg",
@@ -9,13 +10,14 @@
     "static/media/bu-logo.png": "/static/media/bu-logo.8711a0629406e6d384c4.png",
     "static/media/this-website.jpg": "/static/media/this-website.201b5d8e2482d0624b99.jpg",
     "static/media/upe-logo.png": "/static/media/upe-logo.e1aea374a317867db68d.png",
+    "static/media/riverside-logo.png": "/static/media/riverside-logo.3f86445d640229cb2e2f.png",
     "static/media/wegmans-logo.png": "/static/media/wegmans-logo.c44d208be397c656846e.png",
     "index.html": "/index.html",
-    "main.28f57630.css.map": "/static/css/main.28f57630.css.map",
-    "main.0cb41334.js.map": "/static/js/main.0cb41334.js.map"
+    "main.ecad5e38.css.map": "/static/css/main.ecad5e38.css.map",
+    "main.01539a26.js.map": "/static/js/main.01539a26.js.map"
   },
   "entrypoints": [
-    "static/css/main.28f57630.css",
-    "static/js/main.0cb41334.js"
+    "static/css/main.ecad5e38.css",
+    "static/js/main.01539a26.js"
   ]
 }

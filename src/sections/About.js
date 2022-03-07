@@ -16,11 +16,10 @@ export default function About() {
         </h1>
         <p className="mb-4 leading-relaxed">
           I'm a Sophomore at Boston University pursuing a B.A. in Computer
-          Science with a focus on development and cybersecurity Additionally, I
-          am planning to complete an M.S. in Computer Science here at BU. In CS,
-          my passions are software development, IT operations, GNU/Linux, and
-          cybersecurity. I am currently aspiring to be a Software or DevOps
-          Engineer.
+          Science with a focus on development and cybersecurity I am planning to
+          complete an M.S. in Computer Science here at BU. In CS, my passions
+          are software development, IT operations, GNU/Linux, and cybersecurity.
+          I am currently aspiring to be a Software or DevOps Engineer.
         </p>
         <p className="mb-4 leading-relaxed">
           When I'm not programming, you'll find me spending time with friends,

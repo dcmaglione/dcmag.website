@@ -1,5 +1,6 @@
 import React from 'react';
-import { socials } from '../data';
+import { socials } from './data';
+import '../styles/home.css';
 
 const style =
   'flex justify-center items-center mx-2 my-4 p-2 w-12 h-12 2xl:w-16 2xl:h-16 text-white hover:text-gray-400 cursor-pointer';

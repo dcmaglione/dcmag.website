@@ -1,16 +1,16 @@
 import React from 'react';
-import { experience } from '../data';
+import { experience } from '../components/data';
 
 export default function Experience() {
   return (
     <section
       id="experience"
-      className="m-auto my-20 mx-32 pt-36 pb-20 bg-gray-900 text-white"
+      className="m-auto pt-36 pb-48 bg-gray-900 text-white"
     >
       <h1 className="flex justify-center mb-10 font-sans sm:text-5xl text-4xl font-semibold title-font text-white">
         Experience
       </h1>
-      <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
+      <div className="grid gap-4 grid-cols-1 md:grid-cols-2 mx-36 px-24">
         {experience.map((experience, index) => (
           <div key={index}>
             <div className="h-full bg-gray-600 bg-opacity-30 p-8 rounded">

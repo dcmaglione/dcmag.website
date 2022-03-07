@@ -2,19 +2,21 @@
 import { FiGithub, FiLinkedin, FiMail, FiInstagram } from 'react-icons/fi';
 
 // Project images
-import ThisWebsite from './images/this-website.jpg';
-import Dotfiles from './images/dotfiles.jpg';
-import Archives from './images/archives.png';
-import Pathfinding from './images/pathfinding.png';
-import CSAWebsite from './images/csa-website.jpg';
-import TerraNova from './images/terra-nova.png';
+import ThisWebsite from '../images/this-website.png';
+import Dotfiles from '../images/dotfiles.jpeg';
+import Archives from '../images/archives.png';
+import Pathfinding from '../images/pathfinding.png';
+import CSAWebsite from '../images/csa-website.jpg';
+import TerraNova from '../images/terra-nova.png';
+import TestChain from '../images/testchain.jpeg';
+import NewWebsite from '../images/new-website.png';
 
 // Experience images
-import BU from './images/bu-logo.png';
-import RVHS from './images/riverside-logo.png';
-import UPE from './images/upe-logo.png';
-import CSA from './images/csa-logo.png';
-import Wegmans from './images/wegmans-logo.png';
+import BU from '../images/bu-logo.png';
+import RVHS from '../images/riverside-logo.png';
+import UPE from '../images/upe-logo.png';
+import CSA from '../images/csa-logo.png';
+import Wegmans from '../images/wegmans-logo.png';
 
 // Socials; rendered by Home.js
 export const socials = [
@@ -48,7 +50,7 @@ export const socials = [
 export const projects = [
   {
     title: 'This Website',
-    subtitle: 'HTML / Tailwind CSS / React',
+    subtitle: 'HTML / Tailwind CSS / ReactJS',
     description:
       'This website was my first project using React that reached completion. It gave me my first exposure to the possibilities of JavaScript libraries and a taste of CSS frameworks.',
     image: ThisWebsite,
@@ -61,6 +63,22 @@ export const projects = [
       'Dotfiles are the customization files used to personalize Linux or other Unix-based systems. These are simply the files whose names start with a dot (.) like .vimrc, .bashrc, .ssh, etc.',
     image: Dotfiles,
     url: 'https://github.com/dcmaglione/dotfiles',
+  },
+  {
+    title: 'TestChain',
+    subtitle: 'C++',
+    description:
+      'TestChain is a sample Blockchain created using C++ as a precursor to the creation of a ERC-20 Token on the Ethereum Network.',
+    image: TestChain,
+    url: 'https://github.com/dcmaglione/TestChain',
+  },
+  {
+    title: 'New Website',
+    subtitle: 'HTML / Sass / ReactJS',
+    description:
+      'New personal website built using ReactJS and Sass over Spring 2022. This website is currently under development.',
+    image: NewWebsite,
+    url: 'https://github.com/dcmaglione/website',
   },
   {
     title: 'Personal Archive',
@@ -80,7 +98,7 @@ export const projects = [
   },
   {
     title: 'CSA Official Website',
-    subtitle: 'HTML / SCSS / React',
+    subtitle: 'HTML / Sass / ReactJS',
     description:
       'This is the official website of CSA. I was in charge of the team handling the websites maintenance. Additionally, I ensured the site complied with the Minimum Web Accessibility Standards.',
     image: CSAWebsite,
@@ -133,7 +151,7 @@ export const education = [
     name: 'Riverside High School',
     year: '2016 - 2020',
     degree: 'Advanced Studies Diploma',
-    description: "GPA: 4.49/4.0 || Honor Roll (8 Semesters)",
+    description: 'GPA: 4.49/4.0 || Honor Roll (8 Semesters)',
     image: RVHS,
   },
 ];

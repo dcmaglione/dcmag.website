@@ -1,10 +1,10 @@
 import React from 'react';
 import { GoPrimitiveDot } from 'react-icons/go';
-import { skills } from '../data';
+import { skills } from '../components/data';
 
 export default function Skills() {
   return (
-    <section id="skills" className="m-auto pt-36 pb-20 bg-gray-900 text-white">
+    <section id="skills" className="m-auto pt-36 pb-16 bg-gray-900 text-white">
       <h1 className="flex justify-center mb-10 font-sans sm:text-5xl text-4xl font-semibold title-font text-white">
         Skills
       </h1>
