@@ -10,7 +10,7 @@ export default function About() {
       <div className="xl:ml-24 px-14 lg:max-w-lg lg:w-full md:w-1/2 w-5/6 md:pl-8">
         <img className="rounded-full" src={ProfilePic} alt=" " />
       </div>
-      <div className="lg:flex-grow md:w-1/2 flex flex-col md:items-start xl:text-left mb-16 xl:mr-24 mt-14 xl:mt-0 md:mb-0 px-14 items-center text-center">
+      <div className="lg:flex-grow md:w-1/2 flex flex-col md:items-start xl:text-left mb-16 l:mr-24 mt-14 xl:mt-0 md:mb-0 px-14 items-center text-center">
         <h1 className="title-font sm:text-5xl text-4xl mb-8 font-sans font-bold text-white">
           Hello, I'm Dominic.
         </h1>

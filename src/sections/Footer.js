@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="font-sans font-bold text-center md:w-auto text-3xl text-gray-200 mb-4">
         Contributing / Use of Code
       </div>
-      <div className="font-sans text-center md:w-auto text-xl text-gray-200 mb-24 mx-40 px-40">
+      <div className="font-sans text-center md:w-auto text-xl text-gray-200 mb-24 xl:mx-40 px-40">
         <a
           href="https://dcmaglione.com/"
           className="text-red-500 hover:text-red-800 font-mono"

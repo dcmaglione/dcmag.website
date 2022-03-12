@@ -1,5 +1,5 @@
 // Social Icons
-import { FiGithub, FiLinkedin, FiMail, FiInstagram } from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiMail, FiFileText } from 'react-icons/fi';
 
 // Project images
 import ThisWebsite from '../images/this-website.png';
@@ -39,9 +39,9 @@ export const socials = [
     type: 'external',
   },
   {
-    title: 'Instagram',
-    url: 'https://www.instagram.com/2d.dom/',
-    icon: <FiInstagram className="w-8 h-8 2xl:w-10 2xl:h-10" />,
+    title: 'Resume',
+    url: '/dcm_resume.pdf',
+    icon: <FiFileText className="w-8 h-8 2xl:w-10 2xl:h-10" />,
     type: 'external',
   },
 ];
