@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffa9c02a.css",
-    "main.js": "/static/js/main.3de88ee6.js",
-    "static/media/dotfiles.jpeg": "/static/media/dotfiles.d7ad2278fbb2ce6b9a6e.jpeg",
-    "static/media/this-website.png": "/static/media/this-website.7916f1b4dacf8923bad0.png",
-    "static/media/profile-pic.jpg": "/static/media/profile-pic.3d6236456418a4d307a1.jpg",
-    "static/media/terra-nova.png": "/static/media/terra-nova.c551141fe37c3541ceea.png",
-    "static/media/new-website.png": "/static/media/new-website.f5b72ccb66cd481f844c.png",
-    "static/media/csa-website.jpg": "/static/media/csa-website.4ac2bf89b81e29ab2c75.jpg",
-    "static/media/archives.png": "/static/media/archives.a2c955570c1b1d6909e6.png",
-    "static/media/bu-logo.png": "/static/media/bu-logo.8711a0629406e6d384c4.png",
-    "static/media/testchain.jpeg": "/static/media/testchain.5aa4a0151f332d2b4b3a.jpeg",
-    "static/media/upe-logo.png": "/static/media/upe-logo.e1aea374a317867db68d.png",
-    "static/media/riverside-logo.png": "/static/media/riverside-logo.3f86445d640229cb2e2f.png",
-    "static/media/wegmans-logo.png": "/static/media/wegmans-logo.c44d208be397c656846e.png",
-    "index.html": "/index.html",
-    "main.ffa9c02a.css.map": "/static/css/main.ffa9c02a.css.map",
-    "main.3de88ee6.js.map": "/static/js/main.3de88ee6.js.map"
+    "main.css": "/dcmag.website/static/css/main.ffa9c02a.css",
+    "main.js": "/dcmag.website/static/js/main.acaf3531.js",
+    "static/media/dotfiles.jpeg": "/dcmag.website/static/media/dotfiles.d7ad2278fbb2ce6b9a6e.jpeg",
+    "static/media/this-website.png": "/dcmag.website/static/media/this-website.7916f1b4dacf8923bad0.png",
+    "static/media/profile-pic.jpg": "/dcmag.website/static/media/profile-pic.3d6236456418a4d307a1.jpg",
+    "static/media/terra-nova.png": "/dcmag.website/static/media/terra-nova.c551141fe37c3541ceea.png",
+    "static/media/new-website.png": "/dcmag.website/static/media/new-website.f5b72ccb66cd481f844c.png",
+    "static/media/csa-website.jpg": "/dcmag.website/static/media/csa-website.4ac2bf89b81e29ab2c75.jpg",
+    "static/media/archives.png": "/dcmag.website/static/media/archives.a2c955570c1b1d6909e6.png",
+    "static/media/bu-logo.png": "/dcmag.website/static/media/bu-logo.8711a0629406e6d384c4.png",
+    "static/media/testchain.jpeg": "/dcmag.website/static/media/testchain.5aa4a0151f332d2b4b3a.jpeg",
+    "static/media/upe-logo.png": "/dcmag.website/static/media/upe-logo.e1aea374a317867db68d.png",
+    "static/media/riverside-logo.png": "/dcmag.website/static/media/riverside-logo.3f86445d640229cb2e2f.png",
+    "static/media/wegmans-logo.png": "/dcmag.website/static/media/wegmans-logo.c44d208be397c656846e.png",
+    "index.html": "/dcmag.website/index.html",
+    "main.ffa9c02a.css.map": "/dcmag.website/static/css/main.ffa9c02a.css.map",
+    "main.acaf3531.js.map": "/dcmag.website/static/js/main.acaf3531.js.map"
   },
   "entrypoints": [
     "static/css/main.ffa9c02a.css",
-    "static/js/main.3de88ee6.js"
+    "static/js/main.acaf3531.js"
   ]
 }
