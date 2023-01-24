@@ -1,24 +1,24 @@
 #title {
-    animation: fadeInUpBig 600ms;
+  animation: fadeInUpBig 600ms;
 }
 
 #subtitle {
-    animation: fadeInUpBig 800ms;
+  animation: fadeInUpBig 800ms;
 }
 
 #socials {
-    animation: fadeInUpBig 900ms;
+  animation: fadeInUpBig 900ms;
 }
 
 @keyframes fadeInUpBig {
-    0% {
-      opacity: 0;
-      -webkit-transform: translate3d(0, 20rem, 0);
-      transform: translate3d(0, 20rem, 0);
-    }
-    to {
-      opacity: 1;
-      -webkit-transform: translateZ(0);
-      transform: translateZ(0);
-    }
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 20rem, 0);
+    transform: translate3d(0, 20rem, 0);
   }
+  to {
+    opacity: 1;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+}
